@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **malviya.et@gmail.com**
 
-- 📄 Hobbies [Technical Blogging, Cooking, Cricket and Travelling](Technical Blogging, Cooking, Cricket and Travelling)
+- 📄 Hobbies include Technical Blogging, Cooking, Cricket and Travelling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
