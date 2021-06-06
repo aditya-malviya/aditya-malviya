@@ -4,7 +4,7 @@
 
 
 
-# [![waylon walker header]()](https://waylonwalker.com)
+# [![ADITYA MALVIYA [from_mysight]]()](https://thenucleargeeks.com/author/malviyaaditya/)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
