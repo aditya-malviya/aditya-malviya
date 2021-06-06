@@ -1,4 +1,4 @@
-### ADITYA MALVIYA #from_mysight 👋(https://thenucleargeeks.com/author/malviyaaditya/)
+### [ADITYA MALVIYA #from_mysight](https://thenucleargeeks.com/author/malviyaaditya/)
 
 
 
