@@ -2,9 +2,7 @@
 <h1 align="center">Hey There👋, I'm Aditya Malviya #from_mysight</h1>
 <h3 align="center">Software Enthusiast, Passionate about Agile, Cloud and DevOps Principles.</h3>
 
-- 🔭 I’m currently working for [Raytheon Technologies](https://www.rtx.com/)
-
-- 🌱 I’m currently learning **Azure and Golang**
+- 🔭 I’m currently working for [Raytheon Technologies](https://www.rtx.com/) and learning **Azure and Golang**
 
 - 🤝 Co-Founder at [The Nuclear Geeks](https://thenucleargeeks.com/)
 
@@ -19,8 +17,6 @@
 - 📫 How to reach me **malviya.et@gmail.com**
 
 - 📄 Hobbies [Technical Blogging, Cooking, Cricket and Travelling](Technical Blogging, Cooking, Cricket and Travelling)
-
-- ⚡ Fun fact **I think I mind my own business unless provoked :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
