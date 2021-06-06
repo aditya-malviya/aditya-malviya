@@ -4,7 +4,7 @@
 
 
 
-# [![ADITYA MALVIYA #from_mysight](http://2.gravatar.com/avatar/205a2e48d6a30849d88415668614813e)](https://thenucleargeeks.com/author/malviyaaditya/)
+# [![ADITYA MALVIYA from_mysight](http://2.gravatar.com/avatar/205a2e48d6a30849d88415668614813e)](https://thenucleargeeks.com/author/malviyaaditya/)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
