@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working for [Raytheon Technologies](https://www.rtx.com/) and learning **Azure and Golang**
 
-- 🤝 Co-Founder at [The Nuclear Geeks](https://thenucleargeeks.com/)
+- 🤝 Co-Founder and Technical Writer [The Nuclear Geeks](https://thenucleargeeks.com/)
 
 - 👯 I’m looking to collaborate on [Workshops and Seminars for DevOps and Cloud](https://thenucleargeeks.com/author/malviyaaditya/)
 
 - 👨‍💻 All of my practice and forked projects are available at [https://github.com/aditya-malviya](https://github.com/aditya-malviya)
-
-- 📝 I regularly write articles on [https://thenucleargeeks.com/author/malviyaaditya/](https://thenucleargeeks.com/author/malviyaaditya/)
 
 - 💬 Ask me about **DevOps, Cloud, Python and Automation**
 
