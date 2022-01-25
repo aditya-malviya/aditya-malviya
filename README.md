@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey There👋, I'm Aditya Malviya #from_mysight</h1>
-<h3 align="center">Software Enthusiast, Passionate about Agile, System Design, Development, Cloud and DevOps Principles.</h3>
+<h3 align="center">Software Enthusiast, Passionate about Agile, System Design, Development, Cloud and DevOps Practices.</h3>
 
-- 🔭 I’m currently working for [Amdocs](https://www.amdocs.com/) as a **DevOps Specialist** and learning **Azure and Golang**
+- 🔭 I’m currently working for [F5 Networks](https://www.amdocs.com/) as a **Software Engineer III** and learning **Azure and Golang**
 
 - 🤝 Co-Founder and Technical Writer [The Nuclear Geeks](https://thenucleargeeks.com/)
 
